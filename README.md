@@ -1,2 +1,3 @@
-# 10-POUNDS-RPS
-Fun game trust
+#RPS
+
+Fun game trustS
