@@ -1,3 +1,1 @@
-#RPS
-
-Fun game trustS
+Trust The proccess
